@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Doria Miller
+# 👋 Hi, I'm Doria Moore
 **Data Analyst | Business Intelligence | Customer Insights**
 
 I’m a data analyst with a background in customer success and business development.  
