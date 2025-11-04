@@ -9,7 +9,7 @@ I’m passionate about using data to tell stories and guide business decisions.
 ## 📊 Featured Projects
 | Project | Description | Tools | Link |
 |----------|--------------|-------|------|
-| **New Wheels SQL Analysis** | SQL-based analysis identifying top vehicle makers and customer insights | SQL | [View on GitHub](https://github.com/yourusername/newwheels-sql-analysis) |
+| **New Wheels SQL Analysis** | SQL-based analysis identifying top vehicle makers and customer insights | SQL | [View on GitHub](https://github.com/yourusername/newwheels-sql-analysis) ](https://github.com/doriamoore21-hue/doriamoore21-hue-newwheels-sales-data-analysis)|
 | **Healthcare Claims Trends** | Data visualization project exploring patient claim patterns | Power BI | Coming Soon |
 | **Churn Prediction Model** | Predictive analytics on customer churn using historical data | Python, SQL | Coming Soon |
 
